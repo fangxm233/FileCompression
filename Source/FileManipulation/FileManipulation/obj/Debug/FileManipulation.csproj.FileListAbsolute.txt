@@ -1,0 +1,6 @@
+c:\users\fangxm\documents\visual studio 2017\Projects\FileManipulation\FileManipulation\bin\Debug\FileManipulation.exe.config
+c:\users\fangxm\documents\visual studio 2017\Projects\FileManipulation\FileManipulation\bin\Debug\FileManipulation.exe
+c:\users\fangxm\documents\visual studio 2017\Projects\FileManipulation\FileManipulation\bin\Debug\FileManipulation.pdb
+c:\users\fangxm\documents\visual studio 2017\Projects\FileManipulation\FileManipulation\obj\Debug\FileManipulation.csprojResolveAssemblyReference.cache
+c:\users\fangxm\documents\visual studio 2017\Projects\FileManipulation\FileManipulation\obj\Debug\FileManipulation.exe
+c:\users\fangxm\documents\visual studio 2017\Projects\FileManipulation\FileManipulation\obj\Debug\FileManipulation.pdb
