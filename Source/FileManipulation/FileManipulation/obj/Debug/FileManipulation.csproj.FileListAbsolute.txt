@@ -4,3 +4,9 @@ c:\users\fangxm\documents\visual studio 2017\Projects\FileManipulation\FileManip
 c:\users\fangxm\documents\visual studio 2017\Projects\FileManipulation\FileManipulation\obj\Debug\FileManipulation.csprojResolveAssemblyReference.cache
 c:\users\fangxm\documents\visual studio 2017\Projects\FileManipulation\FileManipulation\obj\Debug\FileManipulation.exe
 c:\users\fangxm\documents\visual studio 2017\Projects\FileManipulation\FileManipulation\obj\Debug\FileManipulation.pdb
+G:\GIT\FileCompression\Source\FileManipulation\FileManipulation\bin\Debug\FileManipulation.exe.config
+G:\GIT\FileCompression\Source\FileManipulation\FileManipulation\bin\Debug\FileManipulation.exe
+G:\GIT\FileCompression\Source\FileManipulation\FileManipulation\bin\Debug\FileManipulation.pdb
+G:\GIT\FileCompression\Source\FileManipulation\FileManipulation\obj\Debug\FileManipulation.csprojResolveAssemblyReference.cache
+G:\GIT\FileCompression\Source\FileManipulation\FileManipulation\obj\Debug\FileManipulation.exe
+G:\GIT\FileCompression\Source\FileManipulation\FileManipulation\obj\Debug\FileManipulation.pdb
